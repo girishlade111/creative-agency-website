@@ -315,3 +315,9 @@ This project is released under the [MIT License](LICENSE).
 ---
 
 **KERN®** — an independent digital design studio. Craft, not templates.
+
+---
+
+## Author
+
+Built by Girish Lade — [ladestack.in](https://ladestack.in)
